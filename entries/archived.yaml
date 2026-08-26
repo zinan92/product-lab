@@ -1,0 +1,147 @@
+snapshot_id: github-universe-2026-08-26
+entries:
+- universe: product-lab
+  repo: Usagi-org/ai-goofish-monitor
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - browser
+  - python
+  source_url: https://github.com/Usagi-org/ai-goofish-monitor
+  visibility: public
+  archived: true
+  description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: true
+    description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-05-18T10:52:34Z'
+  content_lock:
+    locked_ref: f85d140b6b45029d9a0925feb96dad733b41396d
+    locked_url: https://github.com/Usagi-org/ai-goofish-monitor/commit/f85d140b6b45029d9a0925feb96dad733b41396d
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: idootop/open-xiaoai
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - rust
+  source_url: https://github.com/idootop/open-xiaoai
+  visibility: public
+  archived: true
+  description: '🔊 让小爱音箱「听见你的声音」，解锁无限可能。 '
+  status: EXPLORING
+  review_status: needs_review
+  review_reason: 'low-confidence: archived consumer AI-speaker integration product; metadata is sparse.'
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: '🔊 让小爱音箱「听见你的声音」，解锁无限可能。 '
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-04-04T07:58:12Z'
+  content_lock:
+    locked_ref: bc3396c64e2a435f354eb5cb12a203981f1fe422
+    locked_url: https://github.com/idootop/open-xiaoai/commit/bc3396c64e2a435f354eb5cb12a203981f1fe422
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: zinan92/tokenpulse
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - python
+  source_url: https://github.com/zinan92/tokenpulse
+  visibility: public
+  archived: true
+  description: 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget
+    + share card
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget
+      + share card
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-07-28T16:01:13Z'
+- universe: product-lab
+  repo: zinan92/tokenrouter
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - python
+  source_url: https://github.com/zinan92/tokenrouter
+  visibility: public
+  archived: true
+  description: 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-02T08:59:59Z'
+- universe: product-lab
+  repo: zinan92/wcstubhub-clone
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - typescript
+  source_url: https://github.com/zinan92/wcstubhub-clone
+  visibility: public
+  archived: true
+  description: 移动优先的票务市场平台 — FIFA 2026 主题，信任架构，智能定价，完整交易流程
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 移动优先的票务市场平台 — FIFA 2026 主题，信任架构，智能定价，完整交易流程
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-03-27T14:18:50Z'

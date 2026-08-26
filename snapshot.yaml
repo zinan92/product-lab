@@ -1,0 +1,1139 @@
+universe: product-lab
+snapshot_id: github-universe-2026-08-26
+generated_from: zinan92/park-operating-system
+generated_from_checksum: 76ea409b99523b3b5a289cfa07290a8e73d9c13cb9b311ff652395858d379ad1
+entries:
+- universe: product-lab
+  repo: 6tail/tyme4ts
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - typescript
+  source_url: https://github.com/6tail/tyme4ts
+  visibility: public
+  archived: false
+  description: Tyme是一个非常强大的日历工具库，可以看作 Lunar 的升级版，拥有更优的设计和扩展性，支持公历、农历、藏历、回历、星座、干支、生肖、节气、月相、法定假日等。
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: Tyme是一个非常强大的日历工具库，可以看作 Lunar 的升级版，拥有更优的设计和扩展性，支持公历、农历、藏历、回历、星座、干支、生肖、节气、月相、法定假日等。
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-17T09:47:13Z'
+  content_lock:
+    locked_ref: 9e776099e164c43fd932684875057fe345773241
+    locked_url: https://github.com/6tail/tyme4ts/commit/9e776099e164c43fd932684875057fe345773241
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: Brhiza/mingyu
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - api
+  - skill
+  - typescript
+  source_url: https://github.com/Brhiza/mingyu
+  visibility: public
+  archived: false
+  description: 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-25T12:30:06Z'
+  content_lock:
+    locked_ref: 1272aa0cd83a802e78b61568571f709517a1e369
+    locked_url: https://github.com/Brhiza/mingyu/commit/1272aa0cd83a802e78b61568571f709517a1e369
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: DestinyLinker/MingLi-Bench
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - python
+  source_url: https://github.com/DestinyLinker/MingLi-Bench
+  visibility: public
+  archived: false
+  description: A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-05-09T17:49:34Z'
+  content_lock:
+    locked_ref: b7433280fd86d7a7c27debbc47d0303c218f0bfd
+    locked_url: https://github.com/DestinyLinker/MingLi-Bench/commit/b7433280fd86d7a7c27debbc47d0303c218f0bfd
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: Leonxlnx/taste-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - javascript
+  - skill
+  source_url: https://github.com/Leonxlnx/taste-skill
+  visibility: public
+  archived: false
+  description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-24T15:23:56Z'
+  content_lock:
+    locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: Renhuai123/ziwei-doushu
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - typescript
+  source_url: https://github.com/Renhuai123/ziwei-doushu
+  visibility: public
+  archived: false
+  description: 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-06-24T07:24:36Z'
+  content_lock:
+    locked_ref: 88194a404242bfe5c6d5cc512e4117e3e245cdd5
+    locked_url: https://github.com/Renhuai123/ziwei-doushu/commit/88194a404242bfe5c6d5cc512e4117e3e245cdd5
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: SylarLong/iztro
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - research
+  - typescript
+  source_url: https://github.com/SylarLong/iztro
+  visibility: public
+  archived: false
+  description: ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient
+    Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient
+      Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-19T15:46:01Z'
+  content_lock:
+    locked_ref: 814b77e6371e1050cac31bbf674db3c3138fcfde
+    locked_url: https://github.com/SylarLong/iztro/commit/814b77e6371e1050cac31bbf674db3c3138fcfde
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: THU-MAIC/OpenMAIC
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - orchestration
+  - typescript
+  source_url: https://github.com/THU-MAIC/OpenMAIC
+  visibility: public
+  archived: false
+  description: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-26T03:03:18Z'
+  content_lock:
+    locked_ref: 1b4a168175e88057c77869196f7da8ef657fcb2f
+    locked_url: https://github.com/THU-MAIC/OpenMAIC/commit/1b4a168175e88057c77869196f7da8ef657fcb2f
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: Usagi-org/ai-goofish-monitor
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - browser
+  - python
+  source_url: https://github.com/Usagi-org/ai-goofish-monitor
+  visibility: public
+  archived: true
+  description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: true
+    description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-05-18T10:52:34Z'
+  content_lock:
+    locked_ref: f85d140b6b45029d9a0925feb96dad733b41396d
+    locked_url: https://github.com/Usagi-org/ai-goofish-monitor/commit/f85d140b6b45029d9a0925feb96dad733b41396d
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: afumu/wetrace-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/afumu/wetrace-skill
+  visibility: public
+  archived: false
+  description: 微信聊天记录skill
+  status: READY
+  review_status: needs_review
+  review_reason: WeChat chat-records skill; personal-operations placement is provisional [low-confidence].
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 微信聊天记录skill
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-02-14T08:51:02Z'
+  content_lock:
+    locked_ref: 6280e9c106a2549340bf750ccae71f4053ed4710
+    locked_url: https://github.com/afumu/wetrace-skill/commit/6280e9c106a2549340bf750ccae71f4053ed4710
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: birobirobiro/awesome-shadcn-ui
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - collection
+  - typescript
+  source_url: https://github.com/birobirobiro/awesome-shadcn-ui
+  visibility: public
+  archived: false
+  description: A curated list of awesome things related to shadcn/ui.
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A curated list of awesome things related to shadcn/ui.
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-24T03:57:40Z'
+  content_lock:
+    locked_ref: 7417bbeae2d214b0991fa49b4a42d2844fa0c54b
+    locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/7417bbeae2d214b0991fa49b4a42d2844fa0c54b
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: chenglou/pretext
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - typescript
+  source_url: https://github.com/chenglou/pretext
+  visibility: public
+  archived: false
+  description: Fast, accurate & comprehensive text measurement & layout
+  status: READY
+  review_status: needs_review
+  review_reason: 'low-confidence: text measurement and layout utility; no clear primary universe from metadata.'
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Fast, accurate & comprehensive text measurement & layout
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-06-23T05:01:09Z'
+  content_lock:
+    locked_ref: ac49b09b7d83ede19581fa94a8b892b07d309baf
+    locked_url: https://github.com/chenglou/pretext/commit/ac49b09b7d83ede19581fa94a8b892b07d309baf
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: chenjin-cmd/wechat-miniprogram-builder
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags: []
+  source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
+  visibility: public
+  archived: false
+  description: wechat-miniprogram-builder
+  status: READY
+  review_status: needs_review
+  review_reason: WeChat Mini Program builder; product/tooling placement is provisional.
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: wechat-miniprogram-builder
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-01T15:58:29Z'
+  content_lock:
+    locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: chuspeeism/dashi-taskboard
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - javascript
+  source_url: https://github.com/chuspeeism/dashi-taskboard
+  visibility: public
+  archived: false
+  description: ''
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ''
+    license_spdx: Apache-2.0
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-25T20:21:18Z'
+  content_lock:
+    locked_ref: f0f4cabced1b15e47c852438a9a599d245a38063
+    locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/f0f4cabced1b15e47c852438a9a599d245a38063
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: curionox/lifekline
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags: []
+  source_url: https://github.com/curionox/lifekline
+  visibility: public
+  archived: false
+  description: 人生K线 - 基于AI的八字命理可视化工具
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 人生K线 - 基于AI的八字命理可视化工具
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2025-12-14T13:09:01Z'
+  content_lock:
+    locked_ref: b9a27a71260a09f26a1e3757fbee2ba71f52773b
+    locked_url: https://github.com/curionox/lifekline/commit/b9a27a71260a09f26a1e3757fbee2ba71f52773b
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: helloianneo/obsidian-ai-second-brain
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - collection
+  source_url: https://github.com/helloianneo/obsidian-ai-second-brain
+  visibility: public
+  archived: false
+  description: Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-04-13T09:34:10Z'
+  content_lock:
+    locked_ref: fb3468a1d5facf6f42bcce4db4d161dabd1fd615
+    locked_url: https://github.com/helloianneo/obsidian-ai-second-brain/commit/fb3468a1d5facf6f42bcce4db4d161dabd1fd615
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: idootop/open-xiaoai
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - rust
+  source_url: https://github.com/idootop/open-xiaoai
+  visibility: public
+  archived: true
+  description: '🔊 让小爱音箱「听见你的声音」，解锁无限可能。 '
+  status: EXPLORING
+  review_status: needs_review
+  review_reason: 'low-confidence: archived consumer AI-speaker integration product; metadata is sparse.'
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: '🔊 让小爱音箱「听见你的声音」，解锁无限可能。 '
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-04-04T07:58:12Z'
+  content_lock:
+    locked_ref: bc3396c64e2a435f354eb5cb12a203981f1fe422
+    locked_url: https://github.com/idootop/open-xiaoai/commit/bc3396c64e2a435f354eb5cb12a203981f1fe422
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: iptv-org/iptv
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - collection
+  - typescript
+  source_url: https://github.com/iptv-org/iptv
+  visibility: public
+  archived: false
+  description: Collection of publicly available IPTV channels from all over the world
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: Collection of publicly available IPTV channels from all over the world
+    license_spdx: Unlicense
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-26T00:09:32Z'
+  content_lock:
+    locked_ref: b0390e5c6a48065a7def742421353a6109fd3bbd
+    locked_url: https://github.com/iptv-org/iptv/commit/b0390e5c6a48065a7def742421353a6109fd3bbd
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: learnwithu/mingli-master
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/learnwithu/mingli-master
+  visibility: public
+  archived: false
+  description: 紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-15T12:51:17Z'
+  content_lock:
+    locked_ref: 000da99552cdfdbdfde49f6e76b014515b8ea51c
+    locked_url: https://github.com/learnwithu/mingli-master/commit/000da99552cdfdbdfde49f6e76b014515b8ea51c
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: miounet11/life-kline
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - typescript
+  source_url: https://github.com/miounet11/life-kline
+  visibility: public
+  archived: false
+  description: 🌟 人生K线 - 基于 AI 大模型 + 传统八字命理的人生运势可视化工具。将命运绘制成 K 线图，像看股票一样看人生！支持自托管部署。
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 🌟 人生K线 - 基于 AI 大模型 + 传统八字命理的人生运势可视化工具。将命运绘制成 K 线图，像看股票一样看人生！支持自托管部署。
+    license_spdx: Apache-2.0
+    checked_at: '2026-08-26'
+    pushed_at: '2025-12-22T09:41:30Z'
+  content_lock:
+    locked_ref: 7abf184df370452ee8279d72c8b45bc09e19913b
+    locked_url: https://github.com/miounet11/life-kline/commit/7abf184df370452ee8279d72c8b45bc09e19913b
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: n8n-io/n8n
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - product
+  - typescript
+  - workflow
+  source_url: https://github.com/n8n-io/n8n
+  visibility: public
+  archived: false
+  description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code,
+    self-host or cloud, 400+ integrations.
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code,
+      self-host or cloud, 400+ integrations.
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-25T23:55:55Z'
+  content_lock:
+    locked_ref: 48c42fa4b8caba99f415b06ca2a3d2090fa46636
+    locked_url: https://github.com/n8n-io/n8n/commit/48c42fa4b8caba99f415b06ca2a3d2090fa46636
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: nextlevelbuilder/ui-ux-pro-max-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - image
+  - product
+  - python
+  - skill
+  source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+  visibility: public
+  archived: false
+  description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-25T15:27:04Z'
+  content_lock:
+    locked_ref: e353a508767c6d39f0e7698b084dbfc8699fffd3
+    locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/e353a508767c6d39f0e7698b084dbfc8699fffd3
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: nexu-io/html-anything
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - api
+  - skill
+  source_url: https://github.com/nexu-io/html-anything
+  visibility: public
+  archived: false
+  description: ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine
+    · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X
+    / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine
+      · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat /
+      X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+    license_spdx: Apache-2.0
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-23T08:53:57Z'
+  content_lock:
+    locked_ref: c31204544230578ac814026fecc153c6e36587ae
+    locked_url: https://github.com/nexu-io/html-anything/commit/c31204544230578ac814026fecc153c6e36587ae
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: nexu-io/open-design
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - dashboard
+  - image
+  - product
+  - skill
+  - typescript
+  - video
+  source_url: https://github.com/nexu-io/open-design
+  visibility: public
+  archived: false
+  description: '🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app.
+    🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files,
+    HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.'
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: '🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop
+      app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video —
+      real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.'
+    license_spdx: Apache-2.0
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-26T02:48:47Z'
+  content_lock:
+    locked_ref: f888d72d5f1a6e486bf0448ef171b4e452b1e58f
+    locked_url: https://github.com/nexu-io/open-design/commit/f888d72d5f1a6e486bf0448ef171b4e452b1e58f
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: pbakaus/impeccable
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - image
+  - javascript
+  source_url: https://github.com/pbakaus/impeccable
+  visibility: public
+  archived: false
+  description: The design language that makes your AI harness better at design.
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: The design language that makes your AI harness better at design.
+    license_spdx: Apache-2.0
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-25T19:07:13Z'
+  content_lock:
+    locked_ref: fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
+    locked_url: https://github.com/pbakaus/impeccable/commit/fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: phuryn/pm-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - image
+  - research
+  - skill
+  - video
+  source_url: https://github.com/phuryn/pm-skills
+  visibility: public
+  archived: false
+  description: 'PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution,
+    launch, and growth.'
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution,
+      launch, and growth.'
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-07-03T11:34:49Z'
+  content_lock:
+    locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
+    locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: zarazhangrui/tab-out
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - javascript
+  source_url: https://github.com/zarazhangrui/tab-out
+  visibility: public
+  archived: false
+  description: 'Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built
+    for people who open too many tabs and never close them. '
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily.
+      Built for people who open too many tabs and never close them. '
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-04-14T22:27:23Z'
+  content_lock:
+    locked_ref: 2c9b9c5a92d37e2bc1d1f121986f880467e0ef92
+    locked_url: https://github.com/zarazhangrui/tab-out/commit/2c9b9c5a92d37e2bc1d1f121986f880467e0ef92
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: zinan92/codex-harness
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - python
+  source_url: https://github.com/zinan92/codex-harness
+  visibility: public
+  archived: false
+  description: 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-04T06:20:07Z'
+- universe: product-lab
+  repo: zinan92/life-kline
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - private
+  - typescript
+  source_url: https://github.com/zinan92/life-kline
+  visibility: private
+  archived: false
+  description: ''
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: ''
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-07-22T08:47:55Z'
+- universe: product-lab
+  repo: zinan92/paileggemai
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - private
+  - typescript
+  source_url: https://github.com/zinan92/paileggemai
+  visibility: private
+  archived: false
+  description: 电商商品图生成短视频工作台
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 电商商品图生成短视频工作台
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-07-22T12:23:24Z'
+- universe: product-lab
+  repo: zinan92/park-builds
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags: []
+  source_url: https://github.com/zinan92/park-builds
+  visibility: public
+  archived: false
+  description: ''
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ''
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-06-04T16:18:27Z'
+- universe: product-lab
+  repo: zinan92/proactive-explorer
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - product
+  source_url: https://github.com/zinan92/proactive-explorer
+  visibility: public
+  archived: false
+  description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
+    Time-to-Value, Trust & Proof, Growth'
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
+      Time-to-Value, Trust & Proof, Growth'
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-03-19T06:43:22Z'
+- universe: product-lab
+  repo: zinan92/repo-evals
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - dashboard
+  source_url: https://github.com/zinan92/repo-evals
+  visibility: public
+  archived: false
+  description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-07-09T15:41:46Z'
+- universe: product-lab
+  repo: zinan92/tokenpulse
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - python
+  source_url: https://github.com/zinan92/tokenpulse
+  visibility: public
+  archived: true
+  description: 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget
+    + share card
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget
+      + share card
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-07-28T16:01:13Z'
+- universe: product-lab
+  repo: zinan92/tokenrouter
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - python
+  source_url: https://github.com/zinan92/tokenrouter
+  visibility: public
+  archived: true
+  description: 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-02T08:59:59Z'
+- universe: product-lab
+  repo: zinan92/wcstubhub-clone
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - archived
+  - typescript
+  source_url: https://github.com/zinan92/wcstubhub-clone
+  visibility: public
+  archived: true
+  description: 移动优先的票务市场平台 — FIFA 2026 主题，信任架构，智能定价，完整交易流程
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 移动优先的票务市场平台 — FIFA 2026 主题，信任架构，智能定价，完整交易流程
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-03-27T14:18:50Z'
+- universe: product-lab
+  repo: zinan92/wechat-customer-pipeline
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - private
+  - python
+  - workflow
+  source_url: https://github.com/zinan92/wechat-customer-pipeline
+  visibility: private
+  archived: false
+  description: 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-07T10:11:39Z'
+- universe: product-lab
+  repo: zinan92/wechat-xingqiu
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: product
+  tags:
+  - javascript
+  - private
+  source_url: https://github.com/zinan92/wechat-xingqiu
+  visibility: private
+  archived: false
+  description: wechat-xingqiu：原生微信会员内容小程序
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: wechat-xingqiu：原生微信会员内容小程序
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-08-24T18:24:36Z'
+export_checksum: 0117ece34f6e29339e08012a8428ecad91ec8ff63bc06c4b507d101c67550d16
