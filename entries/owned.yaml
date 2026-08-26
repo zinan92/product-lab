@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-26-review-01
+snapshot_id: github-universe-2026-08-26-review-02
 entries:
 - universe: product-lab
   repo: zinan92/codex-harness
@@ -23,7 +23,7 @@ entries:
     archived: false
     description: 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI
     license_spdx: MIT
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-08-04T06:20:07Z'
 - universe: product-lab
   repo: zinan92/life-kline
@@ -49,7 +49,7 @@ entries:
     archived: false
     description: ''
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-07-22T08:47:55Z'
 - universe: product-lab
   repo: zinan92/paileggemai
@@ -75,7 +75,7 @@ entries:
     archived: false
     description: 电商商品图生成短视频工作台
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-07-22T12:23:24Z'
 - universe: product-lab
   repo: zinan92/park-builds
@@ -99,7 +99,7 @@ entries:
     archived: false
     description: ''
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-06-04T16:18:27Z'
 - universe: product-lab
   repo: zinan92/proactive-explorer
@@ -126,7 +126,7 @@ entries:
     description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
       Time-to-Value, Trust & Proof, Growth'
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-03-19T06:43:22Z'
 - universe: product-lab
   repo: zinan92/repo-evals
@@ -151,7 +151,7 @@ entries:
     archived: false
     description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
     license_spdx: MIT
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-07-09T15:41:46Z'
 - universe: product-lab
   repo: zinan92/wechat-customer-pipeline
@@ -178,7 +178,7 @@ entries:
     archived: false
     description: 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-08-07T10:11:39Z'
 - universe: product-lab
   repo: zinan92/wechat-xingqiu
@@ -204,5 +204,5 @@ entries:
     archived: false
     description: wechat-xingqiu：原生微信会员内容小程序
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-01
+    checked_at: 2026-08-26-review-02
     pushed_at: '2026-08-24T18:24:36Z'
