@@ -1,7 +1,7 @@
 universe: product-lab
-snapshot_id: github-universe-2026-08-26-review-03
+snapshot_id: github-universe-2026-08-27-taxonomy-01
 generated_from: zinan92/park-operating-system
-generated_from_checksum: 841ddbe708a4c7e96371f1101c7303d37a056179a5509d53e251986bf85f5709
+generated_from_checksum: f2a07237b4ef237b6058d2ffe3984e2497913eb885c5096ab1b3ec975e358b2c
 entries:
 - universe: product-lab
   repo: 6tail/tyme4ts
@@ -10,7 +10,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - typescript
   source_url: https://github.com/6tail/tyme4ts
@@ -26,12 +26,12 @@ entries:
     archived: false
     description: Tyme是一个非常强大的日历工具库，可以看作 Lunar 的升级版，拥有更优的设计和扩展性，支持公历、农历、藏历、回历、星座、干支、生肖、节气、月相、法定假日等。
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-17T09:47:13Z'
   content_lock:
     locked_ref: 9e776099e164c43fd932684875057fe345773241
     locked_url: https://github.com/6tail/tyme4ts/commit/9e776099e164c43fd932684875057fe345773241
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -41,7 +41,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - api
   - skill
@@ -59,12 +59,12 @@ entries:
     archived: false
     description: 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-25T12:30:06Z'
   content_lock:
     locked_ref: 1272aa0cd83a802e78b61568571f709517a1e369
     locked_url: https://github.com/Brhiza/mingyu/commit/1272aa0cd83a802e78b61568571f709517a1e369
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -74,7 +74,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - python
   source_url: https://github.com/DestinyLinker/MingLi-Bench
@@ -90,44 +90,12 @@ entries:
     archived: false
     description: A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-05-09T17:49:34Z'
   content_lock:
     locked_ref: b7433280fd86d7a7c27debbc47d0303c218f0bfd
     locked_url: https://github.com/DestinyLinker/MingLi-Bench/commit/b7433280fd86d7a7c27debbc47d0303c218f0bfd
-    locked_at: 2026-08-26-review-03
-    update_policy: monthly_pr
-    vendored: false
-- universe: product-lab
-  repo: Leonxlnx/taste-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: product
-  tags:
-  - javascript
-  - skill
-  source_url: https://github.com/Leonxlnx/taste-skill
-  visibility: public
-  archived: false
-  description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
-  status: READY
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
-    license_spdx: MIT
-    checked_at: 2026-08-26-review-03
-    pushed_at: '2026-08-24T15:23:56Z'
-  content_lock:
-    locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -137,7 +105,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - skill
   source_url: https://github.com/Ming-H/yinyuan-skills
@@ -153,12 +121,12 @@ entries:
     archived: false
     description: yinyuan-skills
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-04-05T08:09:38Z'
   content_lock:
     locked_ref: b091c8861a148b8260dedfbd06fc10daf7f886fc
     locked_url: https://github.com/Ming-H/yinyuan-skills/commit/b091c8861a148b8260dedfbd06fc10daf7f886fc
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -168,7 +136,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - typescript
   source_url: https://github.com/Renhuai123/ziwei-doushu
@@ -184,44 +152,12 @@ entries:
     archived: false
     description: 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-06-24T07:24:36Z'
   content_lock:
     locked_ref: 88194a404242bfe5c6d5cc512e4117e3e245cdd5
     locked_url: https://github.com/Renhuai123/ziwei-doushu/commit/88194a404242bfe5c6d5cc512e4117e3e245cdd5
-    locked_at: 2026-08-26-review-03
-    update_policy: monthly_pr
-    vendored: false
-- universe: product-lab
-  repo: Shubham0812/SwiftUI-Animations
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: product
-  tags: []
-  source_url: https://github.com/Shubham0812/SwiftUI-Animations
-  visibility: public
-  archived: false
-  description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
-    in your own projects.
-  status: READY
-  review_status: needs_review
-  review_reason: 'new-star-review: reusable SwiftUI animation components; provisional Product Lab product/library placement.'
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
-      in your own projects.
-    license_spdx: Apache-2.0
-    checked_at: 2026-08-26-review-03
-    pushed_at: '2026-08-11T15:20:15Z'
-  content_lock:
-    locked_ref: 030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_url: https://github.com/Shubham0812/SwiftUI-Animations/commit/030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -231,7 +167,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - research
   - typescript
@@ -250,12 +186,12 @@ entries:
     description: ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient
       Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-19T15:46:01Z'
   content_lock:
     locked_ref: 814b77e6371e1050cac31bbf674db3c3138fcfde
     locked_url: https://github.com/SylarLong/iztro/commit/814b77e6371e1050cac31bbf674db3c3138fcfde
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -265,7 +201,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: knowledge-planet-products
   tags:
   - orchestration
   - typescript
@@ -282,12 +218,12 @@ entries:
     archived: false
     description: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-26T08:34:51Z'
   content_lock:
     locked_ref: 1b4a168175e88057c77869196f7da8ef657fcb2f
     locked_url: https://github.com/THU-MAIC/OpenMAIC/commit/1b4a168175e88057c77869196f7da8ef657fcb2f
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -297,7 +233,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: ecommerce-product-media
   tags:
   - archived
   - browser
@@ -315,12 +251,12 @@ entries:
     archived: true
     description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-05-18T10:52:34Z'
   content_lock:
     locked_ref: f85d140b6b45029d9a0925feb96dad733b41396d
     locked_url: https://github.com/Usagi-org/ai-goofish-monitor/commit/f85d140b6b45029d9a0925feb96dad733b41396d
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -330,7 +266,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: wechat-chat-analysis
   tags:
   - python
   - skill
@@ -347,136 +283,12 @@ entries:
     archived: false
     description: 微信聊天记录skill
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-02-14T08:51:02Z'
   content_lock:
     locked_ref: 6280e9c106a2549340bf750ccae71f4053ed4710
     locked_url: https://github.com/afumu/wetrace-skill/commit/6280e9c106a2549340bf750ccae71f4053ed4710
-    locked_at: 2026-08-26-review-03
-    update_policy: monthly_pr
-    vendored: false
-- universe: product-lab
-  repo: birobirobiro/awesome-shadcn-ui
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: product
-  tags:
-  - collection
-  - typescript
-  source_url: https://github.com/birobirobiro/awesome-shadcn-ui
-  visibility: public
-  archived: false
-  description: A curated list of awesome things related to shadcn/ui.
-  status: READY
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A curated list of awesome things related to shadcn/ui.
-    license_spdx: MIT
-    checked_at: 2026-08-26-review-03
-    pushed_at: '2026-08-24T03:57:40Z'
-  content_lock:
-    locked_ref: 7417bbeae2d214b0991fa49b4a42d2844fa0c54b
-    locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/7417bbeae2d214b0991fa49b4a42d2844fa0c54b
-    locked_at: 2026-08-26-review-03
-    update_policy: monthly_pr
-    vendored: false
-- universe: product-lab
-  repo: chenglou/pretext
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: product
-  tags:
-  - typescript
-  source_url: https://github.com/chenglou/pretext
-  visibility: public
-  archived: false
-  description: Fast, accurate & comprehensive text measurement & layout
-  status: READY
-  review_status: needs_review
-  review_reason: 'low-confidence: text measurement and layout utility; no clear primary universe from metadata.'
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Fast, accurate & comprehensive text measurement & layout
-    license_spdx: MIT
-    checked_at: 2026-08-26-review-03
-    pushed_at: '2026-06-23T05:01:09Z'
-  content_lock:
-    locked_ref: ac49b09b7d83ede19581fa94a8b892b07d309baf
-    locked_url: https://github.com/chenglou/pretext/commit/ac49b09b7d83ede19581fa94a8b892b07d309baf
-    locked_at: 2026-08-26-review-03
-    update_policy: monthly_pr
-    vendored: false
-- universe: product-lab
-  repo: chenjin-cmd/wechat-miniprogram-builder
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: product
-  tags: []
-  source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
-  visibility: public
-  archived: false
-  description: wechat-miniprogram-builder
-  status: READY
-  review_status: needs_review
-  review_reason: WeChat Mini Program builder; product/tooling placement is provisional.
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: wechat-miniprogram-builder
-    license_spdx: MIT
-    checked_at: 2026-08-26-review-03
-    pushed_at: '2026-08-01T15:58:29Z'
-  content_lock:
-    locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
-    locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
-    locked_at: 2026-08-26-review-03
-    update_policy: monthly_pr
-    vendored: false
-- universe: product-lab
-  repo: chuspeeism/dashi-taskboard
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: product
-  tags:
-  - javascript
-  source_url: https://github.com/chuspeeism/dashi-taskboard
-  visibility: public
-  archived: false
-  description: ''
-  status: READY
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: ''
-    license_spdx: Apache-2.0
-    checked_at: 2026-08-26-review-03
-    pushed_at: '2026-08-26T08:47:33Z'
-  content_lock:
-    locked_ref: f0f4cabced1b15e47c852438a9a599d245a38063
-    locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/f0f4cabced1b15e47c852438a9a599d245a38063
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -486,7 +298,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags: []
   source_url: https://github.com/curionox/lifekline
   visibility: public
@@ -501,12 +313,12 @@ entries:
     archived: false
     description: 人生K线 - 基于AI的八字命理可视化工具
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2025-12-14T13:09:01Z'
   content_lock:
     locked_ref: b9a27a71260a09f26a1e3757fbee2ba71f52773b
     locked_url: https://github.com/curionox/lifekline/commit/b9a27a71260a09f26a1e3757fbee2ba71f52773b
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -516,7 +328,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: knowledge-planet-products
   tags:
   - collection
   source_url: https://github.com/helloianneo/obsidian-ai-second-brain
@@ -532,12 +344,12 @@ entries:
     archived: false
     description: Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-04-13T09:34:10Z'
   content_lock:
     locked_ref: fb3468a1d5facf6f42bcce4db4d161dabd1fd615
     locked_url: https://github.com/helloianneo/obsidian-ai-second-brain/commit/fb3468a1d5facf6f42bcce4db4d161dabd1fd615
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -547,7 +359,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - python
   - skill
@@ -564,12 +376,12 @@ entries:
     archived: false
     description: 紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-15T12:51:17Z'
   content_lock:
     locked_ref: 000da99552cdfdbdfde49f6e76b014515b8ea51c
     locked_url: https://github.com/learnwithu/mingli-master/commit/000da99552cdfdbdfde49f6e76b014515b8ea51c
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -579,7 +391,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - typescript
   source_url: https://github.com/miounet11/life-kline
@@ -595,12 +407,12 @@ entries:
     archived: false
     description: 🌟 人生K线 - 基于 AI 大模型 + 传统八字命理的人生运势可视化工具。将命运绘制成 K 线图，像看股票一样看人生！支持自托管部署。
     license_spdx: Apache-2.0
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2025-12-22T09:41:30Z'
   content_lock:
     locked_ref: 7abf184df370452ee8279d72c8b45bc09e19913b
     locked_url: https://github.com/miounet11/life-kline/commit/7abf184df370452ee8279d72c8b45bc09e19913b
-    locked_at: 2026-08-26-review-03
+    locked_at: 2026-08-27-taxonomy-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -610,7 +422,7 @@ entries:
   source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: codex-harness
   tags:
   - python
   source_url: https://github.com/zinan92/codex-harness
@@ -626,7 +438,7 @@ entries:
     archived: false
     description: 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI
     license_spdx: MIT
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-04T06:20:07Z'
 - universe: product-lab
   repo: zinan92/life-kline
@@ -635,7 +447,7 @@ entries:
   source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: mysticism-products
   tags:
   - private
   - typescript
@@ -652,7 +464,7 @@ entries:
     archived: false
     description: ''
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-07-22T08:47:55Z'
 - universe: product-lab
   repo: zinan92/paileggemai
@@ -661,7 +473,7 @@ entries:
   source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: ecommerce-product-media
   tags:
   - private
   - typescript
@@ -678,7 +490,7 @@ entries:
     archived: false
     description: 电商商品图生成短视频工作台
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-07-22T12:23:24Z'
 - universe: product-lab
   repo: zinan92/tokenpulse
@@ -687,7 +499,7 @@ entries:
   source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: codex-harness
   tags:
   - archived
   - python
@@ -706,7 +518,7 @@ entries:
     description: 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget
       + share card
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-07-28T16:01:13Z'
 - universe: product-lab
   repo: zinan92/tokenrouter
@@ -715,7 +527,7 @@ entries:
   source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: codex-harness
   tags:
   - archived
   - python
@@ -732,7 +544,7 @@ entries:
     archived: true
     description: 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-02T08:59:59Z'
 - universe: product-lab
   repo: zinan92/wechat-customer-pipeline
@@ -741,7 +553,7 @@ entries:
   source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: wechat-chat-analysis
   tags:
   - private
   - python
@@ -759,7 +571,7 @@ entries:
     archived: false
     description: 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-07T10:11:39Z'
 - universe: product-lab
   repo: zinan92/wechat-xingqiu
@@ -768,7 +580,7 @@ entries:
   source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: product
+  primary_category: knowledge-planet-products
   tags:
   - javascript
   - private
@@ -785,6 +597,6 @@ entries:
     archived: false
     description: wechat-xingqiu：原生微信会员内容小程序
     license_spdx: NOASSERTION
-    checked_at: 2026-08-26-review-03
+    checked_at: 2026-08-27-taxonomy-01
     pushed_at: '2026-08-24T18:24:36Z'
-export_checksum: 337f328ef797c57a7b9d026690c41af9b920b90fa30454e9f1803f124dc92848
+export_checksum: dafd4899b49b31717178587c0bfad54871e5803105e2a58a84768fd9abe849dd
