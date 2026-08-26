@@ -1,0 +1,211 @@
+snapshot_id: github-universe-2026-08-26
+generated_from_checksum: 76ea409b99523b3b5a289cfa07290a8e73d9c13cb9b311ff652395858d379ad1
+locks:
+- repo: 6tail/tyme4ts
+  source_url: https://github.com/6tail/tyme4ts
+  content_lock:
+    locked_ref: 9e776099e164c43fd932684875057fe345773241
+    locked_url: https://github.com/6tail/tyme4ts/commit/9e776099e164c43fd932684875057fe345773241
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Brhiza/mingyu
+  source_url: https://github.com/Brhiza/mingyu
+  content_lock:
+    locked_ref: 1272aa0cd83a802e78b61568571f709517a1e369
+    locked_url: https://github.com/Brhiza/mingyu/commit/1272aa0cd83a802e78b61568571f709517a1e369
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: DestinyLinker/MingLi-Bench
+  source_url: https://github.com/DestinyLinker/MingLi-Bench
+  content_lock:
+    locked_ref: b7433280fd86d7a7c27debbc47d0303c218f0bfd
+    locked_url: https://github.com/DestinyLinker/MingLi-Bench/commit/b7433280fd86d7a7c27debbc47d0303c218f0bfd
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Leonxlnx/taste-skill
+  source_url: https://github.com/Leonxlnx/taste-skill
+  content_lock:
+    locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Renhuai123/ziwei-doushu
+  source_url: https://github.com/Renhuai123/ziwei-doushu
+  content_lock:
+    locked_ref: 88194a404242bfe5c6d5cc512e4117e3e245cdd5
+    locked_url: https://github.com/Renhuai123/ziwei-doushu/commit/88194a404242bfe5c6d5cc512e4117e3e245cdd5
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: SylarLong/iztro
+  source_url: https://github.com/SylarLong/iztro
+  content_lock:
+    locked_ref: 814b77e6371e1050cac31bbf674db3c3138fcfde
+    locked_url: https://github.com/SylarLong/iztro/commit/814b77e6371e1050cac31bbf674db3c3138fcfde
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: THU-MAIC/OpenMAIC
+  source_url: https://github.com/THU-MAIC/OpenMAIC
+  content_lock:
+    locked_ref: 1b4a168175e88057c77869196f7da8ef657fcb2f
+    locked_url: https://github.com/THU-MAIC/OpenMAIC/commit/1b4a168175e88057c77869196f7da8ef657fcb2f
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Usagi-org/ai-goofish-monitor
+  source_url: https://github.com/Usagi-org/ai-goofish-monitor
+  content_lock:
+    locked_ref: f85d140b6b45029d9a0925feb96dad733b41396d
+    locked_url: https://github.com/Usagi-org/ai-goofish-monitor/commit/f85d140b6b45029d9a0925feb96dad733b41396d
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: afumu/wetrace-skill
+  source_url: https://github.com/afumu/wetrace-skill
+  content_lock:
+    locked_ref: 6280e9c106a2549340bf750ccae71f4053ed4710
+    locked_url: https://github.com/afumu/wetrace-skill/commit/6280e9c106a2549340bf750ccae71f4053ed4710
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: birobirobiro/awesome-shadcn-ui
+  source_url: https://github.com/birobirobiro/awesome-shadcn-ui
+  content_lock:
+    locked_ref: 7417bbeae2d214b0991fa49b4a42d2844fa0c54b
+    locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/7417bbeae2d214b0991fa49b4a42d2844fa0c54b
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: chenglou/pretext
+  source_url: https://github.com/chenglou/pretext
+  content_lock:
+    locked_ref: ac49b09b7d83ede19581fa94a8b892b07d309baf
+    locked_url: https://github.com/chenglou/pretext/commit/ac49b09b7d83ede19581fa94a8b892b07d309baf
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: chenjin-cmd/wechat-miniprogram-builder
+  source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
+  content_lock:
+    locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: chuspeeism/dashi-taskboard
+  source_url: https://github.com/chuspeeism/dashi-taskboard
+  content_lock:
+    locked_ref: f0f4cabced1b15e47c852438a9a599d245a38063
+    locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/f0f4cabced1b15e47c852438a9a599d245a38063
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: curionox/lifekline
+  source_url: https://github.com/curionox/lifekline
+  content_lock:
+    locked_ref: b9a27a71260a09f26a1e3757fbee2ba71f52773b
+    locked_url: https://github.com/curionox/lifekline/commit/b9a27a71260a09f26a1e3757fbee2ba71f52773b
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: helloianneo/obsidian-ai-second-brain
+  source_url: https://github.com/helloianneo/obsidian-ai-second-brain
+  content_lock:
+    locked_ref: fb3468a1d5facf6f42bcce4db4d161dabd1fd615
+    locked_url: https://github.com/helloianneo/obsidian-ai-second-brain/commit/fb3468a1d5facf6f42bcce4db4d161dabd1fd615
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: idootop/open-xiaoai
+  source_url: https://github.com/idootop/open-xiaoai
+  content_lock:
+    locked_ref: bc3396c64e2a435f354eb5cb12a203981f1fe422
+    locked_url: https://github.com/idootop/open-xiaoai/commit/bc3396c64e2a435f354eb5cb12a203981f1fe422
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: iptv-org/iptv
+  source_url: https://github.com/iptv-org/iptv
+  content_lock:
+    locked_ref: b0390e5c6a48065a7def742421353a6109fd3bbd
+    locked_url: https://github.com/iptv-org/iptv/commit/b0390e5c6a48065a7def742421353a6109fd3bbd
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: learnwithu/mingli-master
+  source_url: https://github.com/learnwithu/mingli-master
+  content_lock:
+    locked_ref: 000da99552cdfdbdfde49f6e76b014515b8ea51c
+    locked_url: https://github.com/learnwithu/mingli-master/commit/000da99552cdfdbdfde49f6e76b014515b8ea51c
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: miounet11/life-kline
+  source_url: https://github.com/miounet11/life-kline
+  content_lock:
+    locked_ref: 7abf184df370452ee8279d72c8b45bc09e19913b
+    locked_url: https://github.com/miounet11/life-kline/commit/7abf184df370452ee8279d72c8b45bc09e19913b
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: n8n-io/n8n
+  source_url: https://github.com/n8n-io/n8n
+  content_lock:
+    locked_ref: 48c42fa4b8caba99f415b06ca2a3d2090fa46636
+    locked_url: https://github.com/n8n-io/n8n/commit/48c42fa4b8caba99f415b06ca2a3d2090fa46636
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nextlevelbuilder/ui-ux-pro-max-skill
+  source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+  content_lock:
+    locked_ref: e353a508767c6d39f0e7698b084dbfc8699fffd3
+    locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/e353a508767c6d39f0e7698b084dbfc8699fffd3
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nexu-io/html-anything
+  source_url: https://github.com/nexu-io/html-anything
+  content_lock:
+    locked_ref: c31204544230578ac814026fecc153c6e36587ae
+    locked_url: https://github.com/nexu-io/html-anything/commit/c31204544230578ac814026fecc153c6e36587ae
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nexu-io/open-design
+  source_url: https://github.com/nexu-io/open-design
+  content_lock:
+    locked_ref: f888d72d5f1a6e486bf0448ef171b4e452b1e58f
+    locked_url: https://github.com/nexu-io/open-design/commit/f888d72d5f1a6e486bf0448ef171b4e452b1e58f
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: pbakaus/impeccable
+  source_url: https://github.com/pbakaus/impeccable
+  content_lock:
+    locked_ref: fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
+    locked_url: https://github.com/pbakaus/impeccable/commit/fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: phuryn/pm-skills
+  source_url: https://github.com/phuryn/pm-skills
+  content_lock:
+    locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
+    locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- repo: zarazhangrui/tab-out
+  source_url: https://github.com/zarazhangrui/tab-out
+  content_lock:
+    locked_ref: 2c9b9c5a92d37e2bc1d1f121986f880467e0ef92
+    locked_url: https://github.com/zarazhangrui/tab-out/commit/2c9b9c5a92d37e2bc1d1f121986f880467e0ef92
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
