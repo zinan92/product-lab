@@ -4,7 +4,7 @@
 
 **Product Lab 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-33%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-26%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 33-repo Product Lab map, grouped by function and owned/starred source
+out 26-repo Product Lab map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-08-26-review-02` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-08-26-review-03` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -31,7 +31,7 @@ Snapshot: `github-universe-2026-08-26-review-02` · canonical source: [Park OS](
 
 ## Browse by function
 
-### Mature Products (33)
+### Mature Products (26)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -45,8 +45,6 @@ Snapshot: `github-universe-2026-08-26-review-02` · canonical source: [Park OS](
 | [curionox/lifekline](https://github.com/curionox/lifekline) | 人生K线 - 基于AI的八字命理可视化工具 | Starred | `b9a27a71260a` |
 | [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) | A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数). | Starred | `b7433280fd86` |
 | [helloianneo/obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) | Obsidian + Claude AI 个人知识库完整搭建指南 \| 基于 Karpathy LLM Wiki 方法论 \| 4 阶段 12 步 \| 不用写代码 | Starred | `fb3468a1d5fa` |
-| [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) | 🔊 让小爱音箱「听见你的声音」，解锁无限可能。 | Starred | `bc3396c64e2a` · ARCHIVED |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | Starred | `b0390e5c6a48` |
 | [learnwithu/mingli-master](https://github.com/learnwithu/mingli-master) | 紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML | Starred | `000da99552cd` |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | Starred | `ccbc15639c97` |
 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) | yinyuan-skills | Starred | `b091c8861a14` |
@@ -56,16 +54,11 @@ Snapshot: `github-universe-2026-08-26-review-02` · canonical source: [Park OS](
 | [SylarLong/iztro](https://github.com/SylarLong/iztro) | ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。 | Starred | `814b77e6371e` |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click | Starred | `1b4a168175e8` |
 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Starred | `f85d140b6b45` · ARCHIVED |
-| [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out) | Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them. | Starred | `2c9b9c5a92d3` |
 | [zinan92/codex-harness](https://github.com/zinan92/codex-harness) | 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI | Owned + Starred | owned source |
 | [zinan92/life-kline](https://github.com/zinan92/life-kline) | No description | Owned | owned source · PRIVATE |
 | [zinan92/paileggemai](https://github.com/zinan92/paileggemai) | 电商商品图生成短视频工作台 | Owned | owned source · PRIVATE |
-| [zinan92/park-builds](https://github.com/zinan92/park-builds) | No description | Owned | owned source |
-| [zinan92/proactive-explorer](https://github.com/zinan92/proactive-explorer) | Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach, Time-to-Value, Trust & Proof, Growth | Owned | owned source |
-| [zinan92/repo-evals](https://github.com/zinan92/repo-evals) | Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard | Owned + Starred | owned source |
 | [zinan92/tokenpulse](https://github.com/zinan92/tokenpulse) | 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget + share card | Owned | owned source · ARCHIVED |
 | [zinan92/tokenrouter](https://github.com/zinan92/tokenrouter) | 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核 | Owned | owned source · ARCHIVED |
-| [zinan92/wcstubhub-clone](https://github.com/zinan92/wcstubhub-clone) | 移动优先的票务市场平台 — FIFA 2026 主题，信任架构，智能定价，完整交易流程 | Owned | owned source · ARCHIVED |
 | [zinan92/wechat-customer-pipeline](https://github.com/zinan92/wechat-customer-pipeline) | 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts | Owned | owned source · PRIVATE |
 | [zinan92/wechat-xingqiu](https://github.com/zinan92/wechat-xingqiu) | wechat-xingqiu：原生微信会员内容小程序 | Owned | owned source · PRIVATE |
 
