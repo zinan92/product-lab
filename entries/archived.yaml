@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-27-product-park-review-01
+snapshot_id: github-universe-2026-08-27-agent-park-review-01
 entries:
 - universe: product-lab
   repo: Usagi-org/ai-goofish-monitor
@@ -25,11 +25,11 @@ entries:
     archived: true
     description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-05-18T10:52:34Z'
   content_lock:
     locked_ref: f85d140b6b45029d9a0925feb96dad733b41396d
     locked_url: https://github.com/Usagi-org/ai-goofish-monitor/commit/f85d140b6b45029d9a0925feb96dad733b41396d
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false

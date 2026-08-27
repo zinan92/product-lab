@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-27-product-park-review-01
+snapshot_id: github-universe-2026-08-27-agent-park-review-01
 entries:
 - universe: product-lab
   repo: 6tail/tyme4ts
@@ -23,12 +23,12 @@ entries:
     archived: false
     description: Tyme是一个非常强大的日历工具库，可以看作 Lunar 的升级版，拥有更优的设计和扩展性，支持公历、农历、藏历、回历、星座、干支、生肖、节气、月相、法定假日等。
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-17T09:47:13Z'
   content_lock:
     locked_ref: 9e776099e164c43fd932684875057fe345773241
     locked_url: https://github.com/6tail/tyme4ts/commit/9e776099e164c43fd932684875057fe345773241
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -56,12 +56,12 @@ entries:
     archived: false
     description: 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-25T12:30:06Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:38:32Z'
   content_lock:
     locked_ref: 1272aa0cd83a802e78b61568571f709517a1e369
     locked_url: https://github.com/Brhiza/mingyu/commit/1272aa0cd83a802e78b61568571f709517a1e369
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -87,12 +87,47 @@ entries:
     archived: false
     description: A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-05-09T17:49:34Z'
   content_lock:
     locked_ref: b7433280fd86d7a7c27debbc47d0303c218f0bfd
     locked_url: https://github.com/DestinyLinker/MingLi-Bench/commit/b7433280fd86d7a7c27debbc47d0303c218f0bfd
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: FANzR-arch/Numerologist_skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - library
+  - python
+  - skill
+  source_url: https://github.com/FANzR-arch/Numerologist_skills
+  visibility: public
+  archived: false
+  description: 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数
+    AI skills。
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数
+      AI skills。
+    license_spdx: NOASSERTION
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-03T05:05:19Z'
+  content_lock:
+    locked_ref: ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
+    locked_url: https://github.com/FANzR-arch/Numerologist_skills/commit/ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -118,12 +153,12 @@ entries:
     archived: false
     description: yinyuan-skills
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-04-05T08:09:38Z'
   content_lock:
     locked_ref: b091c8861a148b8260dedfbd06fc10daf7f886fc
     locked_url: https://github.com/Ming-H/yinyuan-skills/commit/b091c8861a148b8260dedfbd06fc10daf7f886fc
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -149,12 +184,12 @@ entries:
     archived: false
     description: 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-06-24T07:24:36Z'
   content_lock:
     locked_ref: 88194a404242bfe5c6d5cc512e4117e3e245cdd5
     locked_url: https://github.com/Renhuai123/ziwei-doushu/commit/88194a404242bfe5c6d5cc512e4117e3e245cdd5
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -183,12 +218,12 @@ entries:
     description: ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient
       Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-27T02:18:23Z'
   content_lock:
     locked_ref: 814b77e6371e1050cac31bbf674db3c3138fcfde
     locked_url: https://github.com/SylarLong/iztro/commit/814b77e6371e1050cac31bbf674db3c3138fcfde
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -215,12 +250,12 @@ entries:
     archived: false
     description: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:47:15Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:26:34Z'
   content_lock:
     locked_ref: 1b4a168175e88057c77869196f7da8ef657fcb2f
     locked_url: https://github.com/THU-MAIC/OpenMAIC/commit/1b4a168175e88057c77869196f7da8ef657fcb2f
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -247,12 +282,12 @@ entries:
     archived: false
     description: 微信聊天记录skill
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-02-14T08:51:02Z'
   content_lock:
     locked_ref: 6280e9c106a2549340bf750ccae71f4053ed4710
     locked_url: https://github.com/afumu/wetrace-skill/commit/6280e9c106a2549340bf750ccae71f4053ed4710
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -277,12 +312,12 @@ entries:
     archived: false
     description: 人生K线 - 基于AI的八字命理可视化工具
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2025-12-14T13:09:01Z'
   content_lock:
     locked_ref: b9a27a71260a09f26a1e3757fbee2ba71f52773b
     locked_url: https://github.com/curionox/lifekline/commit/b9a27a71260a09f26a1e3757fbee2ba71f52773b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -308,12 +343,44 @@ entries:
     archived: false
     description: Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-04-13T09:34:10Z'
   content_lock:
     locked_ref: fb3468a1d5facf6f42bcce4db4d161dabd1fd615
     locked_url: https://github.com/helloianneo/obsidian-ai-second-brain/commit/fb3468a1d5facf6f42bcce4db4d161dabd1fd615
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: jinchenma94/bazi-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/jinchenma94/bazi-skill
+  visibility: public
+  archived: false
+  description: 四柱八字命理分析
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 四柱八字命理分析
+    license_spdx: MIT
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-17T17:53:04Z'
+  content_lock:
+    locked_ref: 112a5d84cd1a001a0038cafca3be68d93e4c0cc9
+    locked_url: https://github.com/jinchenma94/bazi-skill/commit/112a5d84cd1a001a0038cafca3be68d93e4c0cc9
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -340,12 +407,12 @@ entries:
     archived: false
     description: 紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-15T12:51:17Z'
   content_lock:
     locked_ref: 000da99552cdfdbdfde49f6e76b014515b8ea51c
     locked_url: https://github.com/learnwithu/mingli-master/commit/000da99552cdfdbdfde49f6e76b014515b8ea51c
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -371,11 +438,11 @@ entries:
     archived: false
     description: 🌟 人生K线 - 基于 AI 大模型 + 传统八字命理的人生运势可视化工具。将命运绘制成 K 线图，像看股票一样看人生！支持自托管部署。
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2025-12-22T09:41:30Z'
   content_lock:
     locked_ref: 7abf184df370452ee8279d72c8b45bc09e19913b
     locked_url: https://github.com/miounet11/life-kline/commit/7abf184df370452ee8279d72c8b45bc09e19913b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
