@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-27-taxonomy-01
+snapshot_id: github-universe-2026-08-27-star-refresh-01
 entries:
 - universe: product-lab
   repo: Usagi-org/ai-goofish-monitor
@@ -25,12 +25,12 @@ entries:
     archived: true
     description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
     license_spdx: MIT
-    checked_at: 2026-08-27-taxonomy-01
+    checked_at: 2026-08-27-star-refresh-01
     pushed_at: '2026-05-18T10:52:34Z'
   content_lock:
     locked_ref: f85d140b6b45029d9a0925feb96dad733b41396d
     locked_url: https://github.com/Usagi-org/ai-goofish-monitor/commit/f85d140b6b45029d9a0925feb96dad733b41396d
-    locked_at: 2026-08-27-taxonomy-01
+    locked_at: 2026-08-27-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -59,7 +59,7 @@ entries:
     description: 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget
       + share card
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-taxonomy-01
+    checked_at: 2026-08-27-star-refresh-01
     pushed_at: '2026-07-28T16:01:13Z'
 - universe: product-lab
   repo: zinan92/tokenrouter
@@ -85,5 +85,5 @@ entries:
     archived: true
     description: 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-taxonomy-01
+    checked_at: 2026-08-27-star-refresh-01
     pushed_at: '2026-08-02T08:59:59Z'
