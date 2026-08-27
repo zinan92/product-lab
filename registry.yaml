@@ -2,6 +2,6 @@ universe: product-lab
 registry_repo: true
 registry_role: public_scoped
 canonical_registry_repo: zinan92/park-operating-system
-canonical_snapshot: github-universe-2026-08-27-star-refresh-01
-generated_from_checksum: 1f4a99ff328855fe5dffdcc98df1211507ff353fcde7b7d9f47e6159295df28e
-export_checksum: 9158a7c7e1d15cee823b30373c7e0dd13b2e7015ba8cfe67746e51501e0f02e8
+canonical_snapshot: github-universe-2026-08-27-content-review-01
+generated_from_checksum: 717878249f70f990cc4c5abba5f5fc2957fa253ad19a76208ca4ab7891e0bbe1
+export_checksum: 823ee8bc7e9afdda253cc2e3c0567f88168323d569adfb8bb7f3bcdd829411c1
