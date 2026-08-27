@@ -4,7 +4,7 @@
 
 **Product Lab 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-20%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-18%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 20-repo Product Lab map, grouped by function and owned/starred source
+out 18-repo Product Lab map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-08-27-content-review-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -53,13 +53,11 @@ Snapshot: `github-universe-2026-08-27-content-review-01` · canonical source: [P
 | [afumu/wetrace-skill](https://github.com/afumu/wetrace-skill) | 微信聊天记录skill | Starred | `6280e9c106a2` |
 | [zinan92/wechat-customer-pipeline](https://github.com/zinan92/wechat-customer-pipeline) | 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts | Owned | owned source · PRIVATE |
 
-### Codex Harness (3)
+### Codex Harness (1)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
 | [zinan92/codex-harness](https://github.com/zinan92/codex-harness) | 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI | Owned + Starred | owned source |
-| [zinan92/tokenpulse](https://github.com/zinan92/tokenpulse) | 把 Claude/Codex 本地 token 日志变成桌面鞭策 widget、Telegram 推送、CLI 状态和可分享 QR 战绩卡。in 本地日志 + models.dev → out goad widget + share card | Owned | owned source · ARCHIVED |
-| [zinan92/tokenrouter](https://github.com/zinan92/tokenrouter) | 个人项目组合工作台：双通道成本账本 + TokenRouter v0 级联内核 | Owned | owned source · ARCHIVED |
 
 ### E-commerce / Product Media (2)
 
