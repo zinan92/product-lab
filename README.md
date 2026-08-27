@@ -4,7 +4,7 @@
 
 **Product Lab 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-18%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-20%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 18-repo Product Lab map, grouped by function and owned/starred source
+out 20-repo Product Lab map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-08-27-agent-park-review-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -31,7 +31,7 @@ Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical sourc
 
 ## Browse by function
 
-### Mysticism / 命理 Products (10)
+### Mysticism / 命理 Products (12)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -39,6 +39,8 @@ Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical sourc
 | [Brhiza/mingyu](https://github.com/Brhiza/mingyu) | 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。 | Starred | `1272aa0cd83a` |
 | [curionox/lifekline](https://github.com/curionox/lifekline) | 人生K线 - 基于AI的八字命理可视化工具 | Starred | `b9a27a71260a` |
 | [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) | A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数). | Starred | `b7433280fd86` |
+| [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。 | Starred | `ea28c3fb7e80` |
+| [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) | 四柱八字命理分析 | Starred | `112a5d84cd1a` |
 | [learnwithu/mingli-master](https://github.com/learnwithu/mingli-master) | 紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML | Starred | `000da99552cd` |
 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) | yinyuan-skills | Starred | `b091c8861a14` |
 | [miounet11/life-kline](https://github.com/miounet11/life-kline) | 🌟 人生K线 - 基于 AI 大模型 + 传统八字命理的人生运势可视化工具。将命运绘制成 K 线图，像看股票一样看人生！支持自托管部署。 | Starred | `7abf184df370` |
