@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-27-agent-park-review-01
+snapshot_id: github-universe-2026-09-14
 entries:
 - universe: product-lab
   repo: zinan92/codex-harness
@@ -23,8 +23,33 @@ entries:
     archived: false
     description: 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-04T06:20:07Z'
+- universe: product-lab
+  repo: zinan92/get-fit
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: fitness-light
+  tags:
+  - typescript
+  source_url: https://github.com/zinan92/get-fit
+  visibility: public
+  archived: false
+  description: 轻练 · 私教 30 天训练与饮食计划小程序
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 轻练 · 私教 30 天训练与饮食计划小程序
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T04:35:32Z'
 - universe: product-lab
   repo: zinan92/life-kline
   owned: true
@@ -49,8 +74,34 @@ entries:
     archived: false
     description: ''
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-07-22T08:47:55Z'
+- universe: product-lab
+  repo: zinan92/mingyu-wechat-experience
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - javascript
+  - private
+  source_url: https://github.com/zinan92/mingyu-wechat-experience
+  visibility: private
+  archived: false
+  description: 'Native WeChat Mini Program experience: local Six-Yao chart and structured prompt using mingyu-core'
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 'Native WeChat Mini Program experience: local Six-Yao chart and structured prompt using mingyu-core'
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-30T09:37:30Z'
 - universe: product-lab
   repo: zinan92/paileggemai
   owned: true
@@ -75,13 +126,13 @@ entries:
     archived: false
     description: 电商商品图生成短视频工作台
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-07-22T12:23:24Z'
 - universe: product-lab
   repo: zinan92/wechat-customer-pipeline
   owned: true
-  starred: false
-  source_kind: owned
+  starred: true
+  source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
   primary_category: wechat-chat-analysis
@@ -102,7 +153,7 @@ entries:
     archived: false
     description: 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-07T10:11:39Z'
 - universe: product-lab
   repo: zinan92/wechat-xingqiu
@@ -118,7 +169,7 @@ entries:
   source_url: https://github.com/zinan92/wechat-xingqiu
   visibility: private
   archived: false
-  description: wechat-xingqiu：原生微信会员内容小程序
+  description: 将 Markdown / 本地 HTML 发布到微信会员内容产品。in 文档 + 图片 + 栏目 → out 电脑后台 + 手机管理 + 原生小程序阅读。HTML 常见样式与宽表格横滑，无需额外网站域名。
   status: READY
   review_status: confirmed
   review_reason: null
@@ -126,7 +177,7 @@ entries:
     default_branch: main
     visibility: private
     archived: false
-    description: wechat-xingqiu：原生微信会员内容小程序
+    description: 将 Markdown / 本地 HTML 发布到微信会员内容产品。in 文档 + 图片 + 栏目 → out 电脑后台 + 手机管理 + 原生小程序阅读。HTML 常见样式与宽表格横滑，无需额外网站域名。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
-    pushed_at: '2026-08-24T18:24:36Z'
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:17:47Z'

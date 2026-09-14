@@ -1,7 +1,7 @@
 universe: product-lab
-snapshot_id: github-universe-2026-08-27-agent-park-review-01
+snapshot_id: github-universe-2026-09-14
 generated_from: zinan92/park-operating-system
-generated_from_checksum: 3e1c25d872dca1c8d4b30063a227691013321d04ee793e84e4b5d77db23d1bb1
+generated_from_checksum: eb9176f3ad7b3195b0c31e597a9c25ee25af4e16591fe59e6d09d8f2a3c383be
 entries:
 - universe: product-lab
   repo: 6tail/tyme4ts
@@ -26,12 +26,12 @@ entries:
     archived: false
     description: Tyme是一个非常强大的日历工具库，可以看作 Lunar 的升级版，拥有更优的设计和扩展性，支持公历、农历、藏历、回历、星座、干支、生肖、节气、月相、法定假日等。
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-17T09:47:13Z'
   content_lock:
     locked_ref: 9e776099e164c43fd932684875057fe345773241
     locked_url: https://github.com/6tail/tyme4ts/commit/9e776099e164c43fd932684875057fe345773241
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -58,13 +58,13 @@ entries:
     visibility: public
     archived: false
     description: 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
-    pushed_at: '2026-08-27T05:38:32Z'
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:11:40Z'
   content_lock:
-    locked_ref: 1272aa0cd83a802e78b61568571f709517a1e369
-    locked_url: https://github.com/Brhiza/mingyu/commit/1272aa0cd83a802e78b61568571f709517a1e369
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 0ba79b7bae1256298c28c88c5157f343da6d5023
+    locked_url: https://github.com/Brhiza/mingyu/commit/0ba79b7bae1256298c28c88c5157f343da6d5023
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -90,12 +90,12 @@ entries:
     archived: false
     description: A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-05-09T17:49:34Z'
   content_lock:
     locked_ref: b7433280fd86d7a7c27debbc47d0303c218f0bfd
     locked_url: https://github.com/DestinyLinker/MingLi-Bench/commit/b7433280fd86d7a7c27debbc47d0303c218f0bfd
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -125,12 +125,44 @@ entries:
     description: 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数
       AI skills。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-03T05:05:19Z'
   content_lock:
     locked_ref: ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
     locked_url: https://github.com/FANzR-arch/Numerologist_skills/commit/ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: HammingDev/haiming-app-monetization
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: fitness-light
+  tags:
+  - product
+  - skill
+  source_url: https://github.com/HammingDev/haiming-app-monetization
+  visibility: public
+  archived: false
+  description: 海明Dev： App 商业化 Skill｜onboarding、付费墙、内购选项、竞品调研
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 海明Dev： App 商业化 Skill｜onboarding、付费墙、内购选项、竞品调研
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-10T13:31:37Z'
+  content_lock:
+    locked_ref: 271d8abf34a4fb6bbeb451fa92d65835f361caaa
+    locked_url: https://github.com/HammingDev/haiming-app-monetization/commit/271d8abf34a4fb6bbeb451fa92d65835f361caaa
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -156,12 +188,12 @@ entries:
     archived: false
     description: yinyuan-skills
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-04-05T08:09:38Z'
   content_lock:
     locked_ref: b091c8861a148b8260dedfbd06fc10daf7f886fc
     locked_url: https://github.com/Ming-H/yinyuan-skills/commit/b091c8861a148b8260dedfbd06fc10daf7f886fc
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -187,12 +219,12 @@ entries:
     archived: false
     description: 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-06-24T07:24:36Z'
   content_lock:
     locked_ref: 88194a404242bfe5c6d5cc512e4117e3e245cdd5
     locked_url: https://github.com/Renhuai123/ziwei-doushu/commit/88194a404242bfe5c6d5cc512e4117e3e245cdd5
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -221,12 +253,12 @@ entries:
     description: ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient
       Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
-    pushed_at: '2026-08-27T02:18:23Z'
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-09T04:12:31Z'
   content_lock:
-    locked_ref: 814b77e6371e1050cac31bbf674db3c3138fcfde
-    locked_url: https://github.com/SylarLong/iztro/commit/814b77e6371e1050cac31bbf674db3c3138fcfde
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 2c7ef9be669df7b19d1799f4dce335fed3794f78
+    locked_url: https://github.com/SylarLong/iztro/commit/2c7ef9be669df7b19d1799f4dce335fed3794f78
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -253,12 +285,12 @@ entries:
     archived: false
     description: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
-    pushed_at: '2026-08-27T05:26:34Z'
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T03:51:16Z'
   content_lock:
-    locked_ref: 1b4a168175e88057c77869196f7da8ef657fcb2f
-    locked_url: https://github.com/THU-MAIC/OpenMAIC/commit/1b4a168175e88057c77869196f7da8ef657fcb2f
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 98765db8b3369247aa4c3ba1e0d957064d234251
+    locked_url: https://github.com/THU-MAIC/OpenMAIC/commit/98765db8b3369247aa4c3ba1e0d957064d234251
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -286,12 +318,12 @@ entries:
     archived: true
     description: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-05-18T10:52:34Z'
   content_lock:
     locked_ref: f85d140b6b45029d9a0925feb96dad733b41396d
     locked_url: https://github.com/Usagi-org/ai-goofish-monitor/commit/f85d140b6b45029d9a0925feb96dad733b41396d
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -318,12 +350,12 @@ entries:
     archived: false
     description: 微信聊天记录skill
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-02-14T08:51:02Z'
   content_lock:
     locked_ref: 6280e9c106a2549340bf750ccae71f4053ed4710
     locked_url: https://github.com/afumu/wetrace-skill/commit/6280e9c106a2549340bf750ccae71f4053ed4710
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -348,12 +380,45 @@ entries:
     archived: false
     description: 人生K线 - 基于AI的八字命理可视化工具
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2025-12-14T13:09:01Z'
   content_lock:
     locked_ref: b9a27a71260a09f26a1e3757fbee2ba71f52773b
     locked_url: https://github.com/curionox/lifekline/commit/b9a27a71260a09f26a1e3757fbee2ba71f52773b
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- universe: product-lab
+  repo: hasaneyldrm/exercises-dataset
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: fitness-light
+  tags:
+  - product
+  source_url: https://github.com/hasaneyldrm/exercises-dataset
+  visibility: public
+  archived: false
+  description: 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step
+    instructions in 6 languages. The exercise data layer behind the LogPress app.
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step
+      instructions in 6 languages. The exercise data layer behind the LogPress app.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-16T06:50:42Z'
+  content_lock:
+    locked_ref: 7455efae41b330c265e7cd4b78dfa848e7ce5ebd
+    locked_url: https://github.com/hasaneyldrm/exercises-dataset/commit/7455efae41b330c265e7cd4b78dfa848e7ce5ebd
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -379,12 +444,12 @@ entries:
     archived: false
     description: Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-04-13T09:34:10Z'
   content_lock:
     locked_ref: fb3468a1d5facf6f42bcce4db4d161dabd1fd615
     locked_url: https://github.com/helloianneo/obsidian-ai-second-brain/commit/fb3468a1d5facf6f42bcce4db4d161dabd1fd615
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -411,12 +476,12 @@ entries:
     archived: false
     description: 四柱八字命理分析
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-17T17:53:04Z'
   content_lock:
     locked_ref: 112a5d84cd1a001a0038cafca3be68d93e4c0cc9
     locked_url: https://github.com/jinchenma94/bazi-skill/commit/112a5d84cd1a001a0038cafca3be68d93e4c0cc9
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -443,12 +508,12 @@ entries:
     archived: false
     description: 紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-15T12:51:17Z'
   content_lock:
     locked_ref: 000da99552cdfdbdfde49f6e76b014515b8ea51c
     locked_url: https://github.com/learnwithu/mingli-master/commit/000da99552cdfdbdfde49f6e76b014515b8ea51c
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -474,12 +539,12 @@ entries:
     archived: false
     description: 🌟 人生K线 - 基于 AI 大模型 + 传统八字命理的人生运势可视化工具。将命运绘制成 K 线图，像看股票一样看人生！支持自托管部署。
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2025-12-22T09:41:30Z'
   content_lock:
     locked_ref: 7abf184df370452ee8279d72c8b45bc09e19913b
     locked_url: https://github.com/miounet11/life-kline/commit/7abf184df370452ee8279d72c8b45bc09e19913b
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - universe: product-lab
@@ -505,8 +570,33 @@ entries:
     archived: false
     description: 本地记录 Codex thread 的 token 使用与项目归属。in Codex session JSONL → out daily thread ledger + read-only HTML UI
     license_spdx: MIT
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-04T06:20:07Z'
+- universe: product-lab
+  repo: zinan92/get-fit
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: fitness-light
+  tags:
+  - typescript
+  source_url: https://github.com/zinan92/get-fit
+  visibility: public
+  archived: false
+  description: 轻练 · 私教 30 天训练与饮食计划小程序
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 轻练 · 私教 30 天训练与饮食计划小程序
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T04:35:32Z'
 - universe: product-lab
   repo: zinan92/life-kline
   owned: true
@@ -531,8 +621,34 @@ entries:
     archived: false
     description: ''
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-07-22T08:47:55Z'
+- universe: product-lab
+  repo: zinan92/mingyu-wechat-experience
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - javascript
+  - private
+  source_url: https://github.com/zinan92/mingyu-wechat-experience
+  visibility: private
+  archived: false
+  description: 'Native WeChat Mini Program experience: local Six-Yao chart and structured prompt using mingyu-core'
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 'Native WeChat Mini Program experience: local Six-Yao chart and structured prompt using mingyu-core'
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-30T09:37:30Z'
 - universe: product-lab
   repo: zinan92/paileggemai
   owned: true
@@ -557,13 +673,13 @@ entries:
     archived: false
     description: 电商商品图生成短视频工作台
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-07-22T12:23:24Z'
 - universe: product-lab
   repo: zinan92/wechat-customer-pipeline
   owned: true
-  starred: false
-  source_kind: owned
+  starred: true
+  source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
   primary_category: wechat-chat-analysis
@@ -584,7 +700,7 @@ entries:
     archived: false
     description: 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
+    checked_at: '2026-09-14'
     pushed_at: '2026-08-07T10:11:39Z'
 - universe: product-lab
   repo: zinan92/wechat-xingqiu
@@ -600,7 +716,7 @@ entries:
   source_url: https://github.com/zinan92/wechat-xingqiu
   visibility: private
   archived: false
-  description: wechat-xingqiu：原生微信会员内容小程序
+  description: 将 Markdown / 本地 HTML 发布到微信会员内容产品。in 文档 + 图片 + 栏目 → out 电脑后台 + 手机管理 + 原生小程序阅读。HTML 常见样式与宽表格横滑，无需额外网站域名。
   status: READY
   review_status: confirmed
   review_reason: null
@@ -608,8 +724,8 @@ entries:
     default_branch: main
     visibility: private
     archived: false
-    description: wechat-xingqiu：原生微信会员内容小程序
+    description: 将 Markdown / 本地 HTML 发布到微信会员内容产品。in 文档 + 图片 + 栏目 → out 电脑后台 + 手机管理 + 原生小程序阅读。HTML 常见样式与宽表格横滑，无需额外网站域名。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-agent-park-review-01
-    pushed_at: '2026-08-24T18:24:36Z'
-export_checksum: ac5cad7847651a6f21be0673386691e8a3292fc4a6f12c8cd71bbba5d5d667cc
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:17:47Z'
+export_checksum: 622e8374e2bfe2ad7f9cc6333e686afd97fa029faddcac10761c1ecb8c16fcb3
