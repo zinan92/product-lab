@@ -1,7 +1,7 @@
 universe: product-lab
-snapshot_id: github-universe-2026-09-19
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 generated_from: zinan92/park-operating-system
-generated_from_checksum: 9031b22c57756f11f22956a4a1b1cb0770c8cf2fb263c534b2b2439427671646
+generated_from_checksum: cf1d439c3a4730a50198508852e2304c7d3aa716a9039f806dca596d68e98d29
 entries:
 - universe: product-lab
   repo: 6tail/tyme4ts
@@ -34,6 +34,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T17:11:33Z'
 - universe: product-lab
   repo: Brhiza/mingyu
   owned: false
@@ -67,6 +68,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T17:07:45Z'
 - universe: product-lab
   repo: DestinyLinker/MingLi-Bench
   owned: false
@@ -98,6 +100,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T16:41:02Z'
 - universe: product-lab
   repo: FANzR-arch/Numerologist_skills
   owned: false
@@ -133,6 +136,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-13T13:20:42Z'
 - universe: product-lab
   repo: HammingDev/haiming-app-monetization
   owned: false
@@ -165,6 +169,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-13T04:12:43Z'
 - universe: product-lab
   repo: Ming-H/yinyuan-skills
   owned: false
@@ -196,6 +201,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-15T13:43:23Z'
 - universe: product-lab
   repo: Renhuai123/ziwei-doushu
   owned: false
@@ -227,6 +233,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T15:38:08Z'
 - universe: product-lab
   repo: SylarLong/iztro
   owned: false
@@ -261,6 +268,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T16:15:53Z'
 - universe: product-lab
   repo: THU-MAIC/OpenMAIC
   owned: false
@@ -293,6 +301,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-24T10:45:51Z'
 - universe: product-lab
   repo: Usagi-org/ai-goofish-monitor
   owned: false
@@ -326,6 +335,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-27T07:10:24Z'
 - universe: product-lab
   repo: afumu/wetrace-skill
   owned: false
@@ -358,6 +368,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-25T05:49:09Z'
 - universe: product-lab
   repo: curionox/lifekline
   owned: false
@@ -388,6 +399,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T17:07:55Z'
 - universe: product-lab
   repo: hasaneyldrm/exercises-dataset
   owned: false
@@ -421,6 +433,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-08-27T08:17:17Z'
 - universe: product-lab
   repo: helloianneo/obsidian-ai-second-brain
   owned: false
@@ -452,6 +465,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-10T16:21:04Z'
 - universe: product-lab
   repo: jinchenma94/bazi-skill
   owned: false
@@ -484,6 +498,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-07T01:42:40Z'
 - universe: product-lab
   repo: learnwithu/mingli-master
   owned: false
@@ -516,6 +531,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T12:26:33Z'
 - universe: product-lab
   repo: miounet11/life-kline
   owned: false
@@ -547,6 +563,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-05-13T01:13:07Z'
 - universe: product-lab
   repo: zinan92/codex-harness
   owned: true
@@ -572,6 +589,7 @@ entries:
     license_spdx: MIT
     checked_at: '2026-09-14'
     pushed_at: '2026-08-04T06:20:07Z'
+  catalog_added_at: '2026-07-17T10:46:13Z'
 - universe: product-lab
   repo: zinan92/get-fit
   owned: true
@@ -597,6 +615,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-09-14T04:35:32Z'
+  catalog_added_at: '2026-09-12T16:13:33Z'
 - universe: product-lab
   repo: zinan92/life-kline
   owned: true
@@ -623,6 +642,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-07-22T08:47:55Z'
+  catalog_added_at: '2026-07-20T13:09:53Z'
 - universe: product-lab
   repo: zinan92/mingyu-wechat-experience
   owned: true
@@ -649,6 +669,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-08-30T09:37:30Z'
+  catalog_added_at: '2026-08-28T07:30:34Z'
 - universe: product-lab
   repo: zinan92/paileggemai
   owned: true
@@ -675,6 +696,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-07-22T12:23:24Z'
+  catalog_added_at: '2026-07-16T11:34:58Z'
 - universe: product-lab
   repo: zinan92/tianji
   owned: true
@@ -700,6 +722,7 @@ entries:
     license_spdx: AGPL-3.0
     checked_at: '2026-09-19'
     pushed_at: '2026-09-15T15:57:06Z'
+  catalog_added_at: '2026-09-15T04:09:59Z'
 - universe: product-lab
   repo: zinan92/tianji-app
   owned: true
@@ -727,6 +750,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-19'
     pushed_at: '2026-09-17T05:17:03Z'
+  catalog_added_at: '2026-09-15T10:50:29Z'
 - universe: product-lab
   repo: zinan92/wechat-customer-pipeline
   owned: true
@@ -754,6 +778,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-08-07T10:11:39Z'
+  catalog_added_at: '2026-08-04T13:27:22Z'
 - universe: product-lab
   repo: zinan92/wechat-xingqiu
   owned: true
@@ -780,4 +805,5 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-09-14T05:17:47Z'
-export_checksum: 28082a7e8c4e60f236e094cdc1bff558fa3e8aefef922471e4f3afff8b9fc43b
+  catalog_added_at: '2026-08-11T14:36:54Z'
+export_checksum: 1d90edf28fa9fe256c533f2c59e425a90adb9616088a3e287acd73ae7ee4bb2f

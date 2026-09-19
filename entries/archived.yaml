@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-09-19
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 entries:
 - universe: product-lab
   repo: Usagi-org/ai-goofish-monitor
@@ -33,3 +33,4 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-27T07:10:24Z'

@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-09-19
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 entries:
 - universe: product-lab
   repo: 6tail/tyme4ts
@@ -31,6 +31,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T17:11:33Z'
 - universe: product-lab
   repo: Brhiza/mingyu
   owned: false
@@ -64,6 +65,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T17:07:45Z'
 - universe: product-lab
   repo: DestinyLinker/MingLi-Bench
   owned: false
@@ -95,6 +97,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T16:41:02Z'
 - universe: product-lab
   repo: FANzR-arch/Numerologist_skills
   owned: false
@@ -130,6 +133,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-13T13:20:42Z'
 - universe: product-lab
   repo: HammingDev/haiming-app-monetization
   owned: false
@@ -162,6 +166,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-13T04:12:43Z'
 - universe: product-lab
   repo: Ming-H/yinyuan-skills
   owned: false
@@ -193,6 +198,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-15T13:43:23Z'
 - universe: product-lab
   repo: Renhuai123/ziwei-doushu
   owned: false
@@ -224,6 +230,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T15:38:08Z'
 - universe: product-lab
   repo: SylarLong/iztro
   owned: false
@@ -258,6 +265,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T16:15:53Z'
 - universe: product-lab
   repo: THU-MAIC/OpenMAIC
   owned: false
@@ -290,6 +298,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-24T10:45:51Z'
 - universe: product-lab
   repo: afumu/wetrace-skill
   owned: false
@@ -322,6 +331,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-25T05:49:09Z'
 - universe: product-lab
   repo: curionox/lifekline
   owned: false
@@ -352,6 +362,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T17:07:55Z'
 - universe: product-lab
   repo: hasaneyldrm/exercises-dataset
   owned: false
@@ -385,6 +396,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-08-27T08:17:17Z'
 - universe: product-lab
   repo: helloianneo/obsidian-ai-second-brain
   owned: false
@@ -416,6 +428,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-10T16:21:04Z'
 - universe: product-lab
   repo: jinchenma94/bazi-skill
   owned: false
@@ -448,6 +461,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-07T01:42:40Z'
 - universe: product-lab
   repo: learnwithu/mingli-master
   owned: false
@@ -480,6 +494,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T12:26:33Z'
 - universe: product-lab
   repo: miounet11/life-kline
   owned: false
@@ -511,3 +526,4 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-05-13T01:13:07Z'
