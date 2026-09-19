@@ -1,7 +1,7 @@
 universe: product-lab
-snapshot_id: github-universe-2026-09-14
+snapshot_id: github-universe-2026-09-19
 generated_from: zinan92/park-operating-system
-generated_from_checksum: eb9176f3ad7b3195b0c31e597a9c25ee25af4e16591fe59e6d09d8f2a3c383be
+generated_from_checksum: 9031b22c57756f11f22956a4a1b1cb0770c8cf2fb263c534b2b2439427671646
 entries:
 - universe: product-lab
   repo: 6tail/tyme4ts
@@ -676,6 +676,58 @@ entries:
     checked_at: '2026-09-14'
     pushed_at: '2026-07-22T12:23:24Z'
 - universe: product-lab
+  repo: zinan92/tianji
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - typescript
+  source_url: https://github.com/zinan92/tianji
+  visibility: public
+  archived: false
+  description: 天机 · 输入生日，排八字，AI 直接解读。基于 Brhiza/mingyu（AGPL-3.0）修改
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 天机 · 输入生日，排八字，AI 直接解读。基于 Brhiza/mingyu（AGPL-3.0）修改
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-15T15:57:06Z'
+- universe: product-lab
+  repo: zinan92/tianji-app
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - private
+  - product
+  - typescript
+  source_url: https://github.com/zinan92/tianji-app
+  visibility: private
+  archived: false
+  description: 天机 · 新前端（正常版 / 邪修版）
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 天机 · 新前端（正常版 / 邪修版）
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-17T05:17:03Z'
+- universe: product-lab
   repo: zinan92/wechat-customer-pipeline
   owned: true
   starred: true
@@ -728,4 +780,4 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-09-14T05:17:47Z'
-export_checksum: 622e8374e2bfe2ad7f9cc6333e686afd97fa029faddcac10761c1ecb8c16fcb3
+export_checksum: 28082a7e8c4e60f236e094cdc1bff558fa3e8aefef922471e4f3afff8b9fc43b
