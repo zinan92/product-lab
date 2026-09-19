@@ -4,7 +4,7 @@
 
 **Product Lab 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-24%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-26%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out  24-repo Product Lab map, grouped by function and owned/starred source
+out  26-repo Product Lab map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-09-14` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-09-19` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -31,7 +31,7 @@ Snapshot: `github-universe-2026-09-14` · canonical source: [Park OS](https://gi
 
 ## Browse by function
 
-### Mysticism / 命理 Products (13)
+### Mysticism / 命理 Products (15)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -48,6 +48,8 @@ Snapshot: `github-universe-2026-09-14` · canonical source: [Park OS](https://gi
 | [SylarLong/iztro](https://github.com/SylarLong/iztro) | ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。 | Starred | `2c7ef9be669d` |
 | [zinan92/life-kline](https://github.com/zinan92/life-kline) | No description | Owned | `owned source` · PRIVATE |
 | [zinan92/mingyu-wechat-experience](https://github.com/zinan92/mingyu-wechat-experience) | Native WeChat Mini Program experience: local Six-Yao chart and structured prompt using mingyu-core | Owned | `owned source` · PRIVATE |
+| [zinan92/tianji](https://github.com/zinan92/tianji) | 天机 · 输入生日，排八字，AI 直接解读。基于 Brhiza/mingyu（AGPL-3.0）修改 | Owned | `owned source` |
+| [zinan92/tianji-app](https://github.com/zinan92/tianji-app) | 天机 · 新前端（正常版 / 邪修版） | Owned | `owned source` · PRIVATE |
 
 ### WeChat Chat Analysis (2)
 

@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-09-14
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 entries:
 - universe: product-lab
   repo: zinan92/codex-harness
@@ -25,6 +25,7 @@ entries:
     license_spdx: MIT
     checked_at: '2026-09-14'
     pushed_at: '2026-08-04T06:20:07Z'
+  catalog_added_at: '2026-07-17T10:46:13Z'
 - universe: product-lab
   repo: zinan92/get-fit
   owned: true
@@ -50,6 +51,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-09-14T04:35:32Z'
+  catalog_added_at: '2026-09-12T16:13:33Z'
 - universe: product-lab
   repo: zinan92/life-kline
   owned: true
@@ -76,6 +78,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-07-22T08:47:55Z'
+  catalog_added_at: '2026-07-20T13:09:53Z'
 - universe: product-lab
   repo: zinan92/mingyu-wechat-experience
   owned: true
@@ -102,6 +105,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-08-30T09:37:30Z'
+  catalog_added_at: '2026-08-28T07:30:34Z'
 - universe: product-lab
   repo: zinan92/paileggemai
   owned: true
@@ -128,6 +132,61 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-07-22T12:23:24Z'
+  catalog_added_at: '2026-07-16T11:34:58Z'
+- universe: product-lab
+  repo: zinan92/tianji
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - typescript
+  source_url: https://github.com/zinan92/tianji
+  visibility: public
+  archived: false
+  description: 天机 · 输入生日，排八字，AI 直接解读。基于 Brhiza/mingyu（AGPL-3.0）修改
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 天机 · 输入生日，排八字，AI 直接解读。基于 Brhiza/mingyu（AGPL-3.0）修改
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-15T15:57:06Z'
+  catalog_added_at: '2026-09-15T04:09:59Z'
+- universe: product-lab
+  repo: zinan92/tianji-app
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: mysticism-products
+  tags:
+  - private
+  - product
+  - typescript
+  source_url: https://github.com/zinan92/tianji-app
+  visibility: private
+  archived: false
+  description: 天机 · 新前端（正常版 / 邪修版）
+  status: READY
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 天机 · 新前端（正常版 / 邪修版）
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-17T05:17:03Z'
+  catalog_added_at: '2026-09-15T10:50:29Z'
 - universe: product-lab
   repo: zinan92/wechat-customer-pipeline
   owned: true
@@ -155,6 +214,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-08-07T10:11:39Z'
+  catalog_added_at: '2026-08-04T13:27:22Z'
 - universe: product-lab
   repo: zinan92/wechat-xingqiu
   owned: true
@@ -181,3 +241,4 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-09-14T05:17:47Z'
+  catalog_added_at: '2026-08-11T14:36:54Z'
