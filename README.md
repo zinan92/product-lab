@@ -4,7 +4,7 @@
 
 **Product Lab 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-26%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-27%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out  26-repo Product Lab map, grouped by function and owned/starred source
+out  27-repo Product Lab map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-09-19` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -51,11 +51,12 @@ Snapshot: `github-universe-2026-09-19` · canonical source: [Park OS](https://gi
 | [zinan92/tianji](https://github.com/zinan92/tianji) | 天机 · 输入生日，排八字，AI 直接解读。基于 Brhiza/mingyu（AGPL-3.0）修改 | Owned | `owned source` |
 | [zinan92/tianji-app](https://github.com/zinan92/tianji-app) | 天机 · 新前端（正常版 / 邪修版） | Owned | `owned source` · PRIVATE |
 
-### WeChat Chat Analysis (2)
+### WeChat Chat Analysis (3)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
 | [afumu/wetrace-skill](https://github.com/afumu/wetrace-skill) | 微信聊天记录skill | Starred | `6280e9c106a2` |
+| [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) | 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具 | Starred | `e3479b0f14a8` |
 | [zinan92/wechat-customer-pipeline](https://github.com/zinan92/wechat-customer-pipeline) | 把授权的本机微信数据库转成私有客户管道与关系行动快照。in WeChat 数据 + 迁移确认 → out HTML + CSV + A/B/C/D + actions + receipts | Owned + Starred | `owned source` · PRIVATE |
 
 ### Codex Harness (1)
